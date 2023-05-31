@@ -26,14 +26,12 @@ Print the characters and its huffman code.
 
 ``` Python
 # Get the input String
-string = 'PrasannalakshmiG'
+string = '212222240075_Prasannalakshmi'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
         self.right=right
     def children(self):
-        return (self.left,self.right)
-    def nodes (self):
         return (self.left,self.right)
         
 
@@ -81,7 +79,9 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![Screenshot (98)](https://github.com/Prasannalakshmiganesan/Huffman-Coding/assets/118610231/8b41991b-5180-41e3-90f0-0d048be6c8fa)
+
+
+![newie](https://github.com/Prasannalakshmiganesan/Huffman-Coding/assets/118610231/aca8bd65-f21c-467c-9fe1-6add4647a899)
 
 
 
