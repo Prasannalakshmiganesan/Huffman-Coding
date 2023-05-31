@@ -35,8 +35,6 @@ class NodeTree(object):
         return (self.left,self.right)
     def nodes (self):
         return (self.left,self.right)
-    def __str__(self):
-        return '%s %s' %(self.left,self.right)
         
 
 # Create tree nodes
