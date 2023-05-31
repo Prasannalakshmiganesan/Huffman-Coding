@@ -26,7 +26,7 @@ Print the characters and its huffman code.
 
 ``` Python
 # Get the input String
-string = 'from robomaster import robot'
+string = 'PrasannalakshmiG'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
@@ -83,7 +83,9 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![OUTPUT](./eleven.png)
+![Screenshot (98)](https://github.com/Prasannalakshmiganesan/Huffman-Coding/assets/118610231/8b41991b-5180-41e3-90f0-0d048be6c8fa)
+
+
 
 
 
